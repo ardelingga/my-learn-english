@@ -1,0 +1,12 @@
+.elementor-2 .elementor-element.elementor-element-1c559a4:not(.elementor-motion-effects-element-type-background), .elementor-2 .elementor-element.elementor-element-1c559a4 > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-color:#F9F9F9;}.elementor-2 .elementor-element.elementor-element-1c559a4{transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;}.elementor-2 .elementor-element.elementor-element-1c559a4 > .elementor-background-overlay{transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-2 .elementor-element.elementor-element-72434f1 .eael-protected-content .protected-content{text-align:left;}.elementor-2 .elementor-element.elementor-element-72434f1 .eael-protected-content-message{text-align:left;}.elementor-2 .elementor-element.elementor-element-72434f1 .protected-content-error-msg{text-align:left;}/* Start custom CSS for section, class: .elementor-element-1c559a4 */@media screen and (max-width: 480px)
+ {
+     html, body {
+    font-size: 15px;
+    font-weight: 500;
+    line-height: 1.7;
+    
+} }
+
+html {
+   background: #F9F9F9;
+}/* End custom CSS */

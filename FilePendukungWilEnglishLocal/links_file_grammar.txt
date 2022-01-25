@@ -1,0 +1,648 @@
+PanduanBelajar
+http://localhost/WilEnglish-Local/MODUL-GRAMMAR/panduan-belajar.html
+
+Bab1-PartOfSpeech
+http://localhost/WilEnglish-Local/MODUL-GRAMMAR/BAB-1/Bab1-PartOfSpeech.html
+
+Bab2-MakingASentence
+http://localhost/WilEnglish-Local/MODUL-GRAMMAR/BAB-2/Bab2-MakingASentence.html
+
+Bab3-UsingSimplePresentTense
+http://localhost/WilEnglish-Local/MODUL-GRAMMAR/BAB-3/Bab3-UsingSimplePresentTense.html
+
+Bab4-UsingPresentProgressiveTense
+http://localhost/WilEnglish-Local/MODUL-GRAMMAR/BAB-4/BAB%204_%20USING%20PRESENT%20PROGRESSIVE%20TENSE%20%e2%80%93%20WilEnglish.html
+
+Bab5-MemahamiNounPart1
+http://localhost/WilEnglish-Local/MODUL-GRAMMAR/BAB-5/BAB%205_%20MEMAHAMI%20NOUN%20PART%201%20%e2%80%93%20WilEnglish.html
+
+Bab6-MemahamiVerbPart1
+http://localhost/WilEnglish-Local/MODUL-GRAMMAR/BAB-6/BAB%206_%20MEMAHAMI%20VERB%20PART%201%20%e2%80%93%20WilEnglish.html
+
+Bab7-UsingSimplePastTense
+http://localhost/WilEnglish-Local/MODUL-GRAMMAR/BAB-7/BAB%207_%20USING%20SIMPLE%20PAST%20TENSE%20%e2%80%93%20WilEnglish.html
+
+Bab8-UsingPresentPerfectTense
+http://localhost/WilEnglish-Local/MODUL-GRAMMAR/BAB-8/BAB%208_%20USING%20PRESENT%20PERFECT%20TENSE%20%e2%80%93%20WilEnglish.html
+
+Bab9-MemahamiNounPart2
+http://localhost/WilEnglish-Local/MODUL-GRAMMAR/BAB-9/BAB%209_%20MEMAHAMI%20NOUN%20PART%202%20%e2%80%93%20WilEnglish.html
+
+Bab10-MembuatKalimatPossessive
+http://localhost/WilEnglish-Local/MODUL-GRAMMAR/BAB-10/BAB%2010_%20MEMBUAT%20KALIMAT%20POSSESSIVE%20%e2%80%93%20WilEnglish.html
+
+Bab11-MembuatSebuahPertanyaan
+http://localhost/WilEnglish-Local/MODUL-GRAMMAR/BAB-11/BAB%2011_%20MEMBUAT%20SEBUAH%20PERTANYAAN%20%e2%80%93%20WilEnglish.html
+
+
+
+BAB 1 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+A. Pengertian part of speech
+http://localhost/WilEnglish-Local/MODUL-GRAMMAR/BAB-1/A.%20PengertianPartOfSpeech.html
+
+B. Tujuan mempelajari part of speech
+http://localhost/WilEnglish-Local/MODUL-GRAMMAR/BAB-1/B.%20TujuanMempelajariPartOfSpeech.html
+
+C. Pembagian part of speech
+http://localhost/WilEnglish-Local/MODUL-GRAMMAR/BAB-1/C.%20PembagianPartOfSpeech.html
+
+    1. Noun (N)
+    http://localhost/WilEnglish-Local/MODUL-GRAMMAR/BAB-1/1.%20Noun(N).html
+
+    2. Verb (V)
+    http://localhost/WilEnglish-Local/MODUL-GRAMMAR/BAB-1/2.%20Verb(V).html
+
+    3. Pronoun (Pron)
+    http://localhost/WilEnglish-Local/MODUL-GRAMMAR/BAB-1/3.%20Pronoun(Pron).html
+
+Exercise 1.1
+http://localhost/WilEnglish-Local/MODUL-GRAMMAR/BAB-1/Exercise1.1.html
+
+    4. Adjective (Adj)
+    http://localhost/WilEnglish-Local/MODUL-GRAMMAR/BAB-1/4.%20Adjective(Adj).html
+
+    5. Adverb (Adv)
+    http://localhost/WilEnglish-Local/MODUL-GRAMMAR/BAB-1/5.%20Adverb(Adv).html
+
+    6. Conjunction (Conj)
+    http://localhost/WilEnglish-Local/MODUL-GRAMMAR/BAB-1/6.%20Conjunction(Conj).html
+
+    7. Interjection
+    http://localhost/WilEnglish-Local/MODUL-GRAMMAR/BAB-1/7.%20Interjection.html
+
+    8. Preposition (Prep)
+    http://localhost/WilEnglish-Local/MODUL-GRAMMAR/BAB-1/8.%20Preposition(Prep).html
+
+Exercise 1.2
+http://localhost/WilEnglish-Local/MODUL-GRAMMAR/BAB-1/Exercise1.2.html
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+BAB 2 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+A. PengertianSentence
+http://localhost/WilEnglish-Local/MODUL-GRAMMAR/BAB-2/A.%20PengertianSentence.html
+
+B. PembagianSentence
+http://localhost/WilEnglish-Local/MODUL-GRAMMAR/BAB-2/B.%20PembagianSentence.html
+
+    1. NominalSentence
+    http://localhost/WilEnglish-Local/MODUL-GRAMMAR/BAB-2/1.%20NominalSentence.html
+
+      a) PositiveSentence
+      http://localhost/WilEnglish-Local/MODUL-GRAMMAR/BAB-2/a)%20PositiveSentence.html
+
+           1. Pronoun+ Tobe
+           http://localhost/WilEnglish-Local/MODUL-GRAMMAR/BAB-2/1.%20Pronoun+%20Tobe.html
+
+           2. MenyingkatPronoun& Tobe
+           http://localhost/WilEnglish-Local/MODUL-GRAMMAR/BAB-2/2.%20MenyingkatPronoun&%20Tobe.html
+
+           Exercise2.1
+           http://localhost/WilEnglish-Local/MODUL-GRAMMAR/BAB-2/Exercise2.1.html
+
+           3. MengenalAnaAtauComplement
+           http://localhost/WilEnglish-Local/MODUL-GRAMMAR/BAB-2/3.%20MengenalAnaAtauComplement.html
+
+           Exercise2.2
+           http://localhost/WilEnglish-Local/MODUL-GRAMMAR/BAB-2/Exercise2.2.html
+
+           4. Article& Noun
+           http://localhost/WilEnglish-Local/MODUL-GRAMMAR/BAB-2/4.%20Article&%20Noun.html
+
+           5. Noun+ Is+ Noun: Singular
+           http://localhost/WilEnglish-Local/MODUL-GRAMMAR/BAB-2/5.%20Noun+%20Is+%20Noun;%20Singular.html
+
+           Exercise2.3
+           http://localhost/WilEnglish-Local/MODUL-GRAMMAR/BAB-2/Exercise2.3.html
+
+           6. Noun+ Are+ Noun: Plural
+           http://localhost/WilEnglish-Local/MODUL-GRAMMAR/BAB-2/6.%20Noun+%20Are+%20Noun;%20Plural.html
+
+           Exercise2.4
+           http://localhost/WilEnglish-Local/MODUL-GRAMMAR/BAB-2/Exercise2.4.html
+
+           7. Pronoun+ Tobe+ Noun
+           http://localhost/WilEnglish-Local/MODUL-GRAMMAR/BAB-2/7.%20Pronoun+%20Tobe+%20Noun.html
+
+           Exercise2.5
+           http://localhost/WilEnglish-Local/MODUL-GRAMMAR/BAB-2/Exercise2.5.html
+
+           Exercise2.6
+           http://localhost/WilEnglish-Local/MODUL-GRAMMAR/BAB-2/Exercise2.6.html
+
+           8. Subject+ Tobe+ Adjective
+           http://localhost/WilEnglish-Local/MODUL-GRAMMAR/BAB-2/8.%20Subject+%20Tobe+%20Adjective.html
+
+           Exercise2.7
+           http://localhost/WilEnglish-Local/MODUL-GRAMMAR/BAB-2/Exercise2.7.html
+
+           9. PossessiveAdjective& Noun
+           http://localhost/WilEnglish-Local/MODUL-GRAMMAR/BAB-2/9.%20PossessiveAdjective&%20Noun.html
+
+           Exercise2.8
+           http://localhost/WilEnglish-Local/MODUL-GRAMMAR/BAB-2/Exercise2.8.html
+
+           10. Subject+ Tobe+ Adverb
+           http://localhost/WilEnglish-Local/MODUL-GRAMMAR/BAB-2/10.%20Subject+%20Tobe+%20Adverb.html
+
+           11. MenggunakanThat/this
+           http://localhost/WilEnglish-Local/MODUL-GRAMMAR/BAB-2/11.%20MenggunakanThatAtauThis.html
+
+           12. MenggunakanThose/these
+           http://localhost/WilEnglish-Local/MODUL-GRAMMAR/BAB-2/12.%20MenggunakanThoseAtauThese.html
+
+           Exercise2.9
+           http://localhost/WilEnglish-Local/MODUL-GRAMMAR/BAB-2/Exercise2.9.html
+
+      b) NegativeSentence
+      http://localhost/WilEnglish-Local/MODUL-GRAMMAR/BAB-2/b)%20NegativeSentence.html
+
+           1. Subject+ Tobe+ Not+ Ana
+           http://localhost/WilEnglish-Local/MODUL-GRAMMAR/BAB-2/1.%20Subject+%20Tobe+%20Not+%20Ana.html
+
+           Exercise2.10
+           http://localhost/WilEnglish-Local/MODUL-GRAMMAR/BAB-2/Exercise2.10.html
+
+      c) InterrogativeSentence
+      http://localhost/WilEnglish-Local/MODUL-GRAMMAR/BAB-2/c)%20InterrogativeSentence.html
+
+           1. Tobe+ Subject+ Ana?
+           http://localhost/WilEnglish-Local/MODUL-GRAMMAR/BAB-2/1.%20Tobe+%20Subject+%20Ana+%20TandaTanya.html
+
+           2. ShortAnswer
+           http://localhost/WilEnglish-Local/MODUL-GRAMMAR/BAB-2/2.%20ShortAnswer.html
+
+           3. LongAnswer
+           http://localhost/WilEnglish-Local/MODUL-GRAMMAR/BAB-2/3.%20LongAnswer.html
+
+           4. Where+ Tobe+ Subject
+           http://localhost/WilEnglish-Local/MODUL-GRAMMAR/BAB-2/4.%20Where+%20Tobe+%20Subject.html
+
+           Exercise2.11
+           http://localhost/WilEnglish-Local/MODUL-GRAMMAR/BAB-2/Exercise2.11.html
+
+           5. WhatIsThisAtauThat+TandaTanya
+           http://localhost/WilEnglish-Local/MODUL-GRAMMAR/BAB-2/5.%20WhatIsThisAtauThat+TandaTanya.html
+
+           6. WhatAreTheseAtauThose+TandaTanya
+           http://localhost/WilEnglish-Local/MODUL-GRAMMAR/BAB-2/6.%20WhatAreTheseAtauThose+TandaTanya.html      
+
+           7. Who+ Tobe+ Subject+TandaTanya
+           http://localhost/WilEnglish-Local/MODUL-GRAMMAR/BAB-2/7.%20Who+%20Tobe+%20Subject+TandaTanya.html
+
+           Exercise2.12
+           http://localhost/WilEnglish-Local/MODUL-GRAMMAR/BAB-2/Exercise2.12.html
+
+    2. VerbalSentence
+    http://localhost/WilEnglish-Local/MODUL-GRAMMAR/BAB-2/2.%20VerbalSentence.html
+
+      a) PositiveSentenceVerbal
+      http://localhost/WilEnglish-Local/MODUL-GRAMMAR/BAB-2/a)%20PositiveSentenceVerbal.html
+
+           1. Subject+ Verb+ Object
+           http://localhost/WilEnglish-Local/MODUL-GRAMMAR/BAB-2/1.%20Subject+%20Verb+%20Object.html
+
+           2. PenambahanS/esPadaVerb
+           http://localhost/WilEnglish-Local/MODUL-GRAMMAR/BAB-2/2.%20PenambahanS%20atau%20esPadaVerb.html
+
+           3. Has/does/goes
+           http://localhost/WilEnglish-Local/MODUL-GRAMMAR/BAB-2/3.%20Has%20atau%20does%20atau%20goes.html
+
+           Exercise2.13
+           http://localhost/WilEnglish-Local/MODUL-GRAMMAR/BAB-2/Exercise2.13.html
+
+      b) NegativeSentenceVerbal
+      http://localhost/WilEnglish-Local/MODUL-GRAMMAR/BAB-2/b)%20NegativeSentenceVerbal.html
+
+           1. S+ Do/does+ Not+ V+ O
+           http://localhost/WilEnglish-Local/MODUL-GRAMMAR/BAB-2/1.%20S+%20Do%20atau%20does+%20Not+%20V+%20O.html
+
+           2. MenyingkatAux& Not
+           http://localhost/WilEnglish-Local/MODUL-GRAMMAR/BAB-2/2.%20MenyingkatAux&%20Not.html
+
+           3. Subject+ Dislike+ Object
+           http://localhost/WilEnglish-Local/MODUL-GRAMMAR/BAB-2/3.%20Subject+%20Dislike+%20Object.html
+
+           Exercise2.14
+           http://localhost/WilEnglish-Local/MODUL-GRAMMAR/BAB-2/Exercise2.14.html
+
+      c) InterrogativeSentenceVerbal
+      http://localhost/WilEnglish-Local/MODUL-GRAMMAR/BAB-2/c)%20InterrogativeSentenceVerbal.html
+
+           1. Do/does+ S+ V+ O?
+           http://localhost/WilEnglish-Local/MODUL-GRAMMAR/BAB-2/1.%20Do%20atau%20does+%20S+%20V+%20O%20Tanda%20Tanya.html
+
+           2. Where+ Do atau does+ S+ V+TandaTanya
+           http://localhost/WilEnglish-Local/MODUL-GRAMMAR/BAB-2/2.%20Where+%20Do%20atau%20does+%20S+%20V+TandaTanya.html
+
+           3. What+ Do atau does+ Subject+ Verb+TandaTanya
+           http://localhost/WilEnglish-Local/MODUL-GRAMMAR/BAB-2/3.%20What+%20Do%20atau%20does+%20Subject+%20Verb+TandaTanya.html
+
+           Exercise2.15
+           http://localhost/WilEnglish-Local/MODUL-GRAMMAR/BAB-2/Exercise2.15.html
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+BAB 3 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+A. Pengertian & penggunaan Simple Present Tense
+http://localhost/WilEnglish-Local/MODUL-GRAMMAR/BAB-3/A.%20Pengertian&%20PenggunaanSimplePresentTense.html
+
+           Exercise 3.1
+           http://localhost/WilEnglish-Local/MODUL-GRAMMAR/BAB-3/Exercise%203.1%20%e2%80%93%20WilEnglish.html
+
+B. Menggunakan frequency adverbs
+http://localhost/WilEnglish-Local/MODUL-GRAMMAR/BAB-3/B.%20Menggunakan%20frequency%20adverbs%20%e2%80%93%20WilEnglish.html
+
+C. Mengekspresikan tingkat keseringan
+http://localhost/WilEnglish-Local/MODUL-GRAMMAR/BAB-3/C.%20Mengekspresikan%20tingkat%20keseringan%20%e2%80%93%20WilEnglish.html
+
+D. Menggunakan ‘it’ untuk bertanya soal waktu
+http://localhost/WilEnglish-Local/MODUL-GRAMMAR/BAB-3/D.%20Menggunakan%20%e2%80%98it%e2%80%99%20untuk%20bertanya%20soal%20waktu%20%e2%80%93%20WilEnglish.html
+
+E. Preposition of time
+http://localhost/WilEnglish-Local/MODUL-GRAMMAR/BAB-3/E.%20Preposition%20of%20time%20%e2%80%93%20WilEnglish.html
+
+           Exercise 3.2
+           http://localhost/WilEnglish-Local/MODUL-GRAMMAR/BAB-3/Exercise%203.2%20%e2%80%93%20WilEnglish.html
+
+F. There + to be
+http://localhost/WilEnglish-Local/MODUL-GRAMMAR/BAB-3/F.%20There%20+%20to%20be%20%e2%80%93%20WilEnglish.html
+
+G. To be + there + any noun ?
+http://localhost/WilEnglish-Local/MODUL-GRAMMAR/BAB-3/G.%20To%20be%20+%20there%20+%20any%20noun%20_%20%e2%80%93%20WilEnglish.html
+
+H. There + to be: bertanya dengan ‘How many?’
+http://localhost/WilEnglish-Local/MODUL-GRAMMAR/BAB-3/H.%20There%20+%20to%20be_%20bertanya%20dengan%20%e2%80%98How%20many_%e2%80%99%20%e2%80%93%20WilEnglish.html
+
+           Exercise 3.3
+           http://localhost/WilEnglish-Local/MODUL-GRAMMAR/BAB-3/Exercise%203.3%20%e2%80%93%20WilEnglish.html
+
+I. Daftar preposition of place
+http://localhost/WilEnglish-Local/MODUL-GRAMMAR/BAB-3/I.%20Daftar%20preposition%20of%20place%20%e2%80%93%20WilEnglish.html
+
+           Exercise 3.4
+           http://localhost/WilEnglish-Local/MODUL-GRAMMAR/BAB-3/Exercise%203.4%20%e2%80%93%20WilEnglish.html
+
+J. Menggunakan NEED & WANT
+http://localhost/WilEnglish-Local/MODUL-GRAMMAR/BAB-3/J.%20Menggunakan%20NEED%20&%20WANT%20%e2%80%93%20WilEnglish.html
+
+K. Menggunakan WOULD LIKE
+http://localhost/WilEnglish-Local/MODUL-GRAMMAR/BAB-3/K.%20Menggunakan%20WOULD%20LIKE%20%e2%80%93%20WilEnglish.html
+
+           Exercise 3.5
+           http://localhost/WilEnglish-Local/MODUL-GRAMMAR/BAB-3/Exercise%203.5%20%e2%80%93%20WilEnglish.html
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+BAB 4 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+A. Pengertian & penggunaan present progressive
+http://localhost/WilEnglish-Local/MODUL-GRAMMAR/BAB-4/A.%20Pengertian%20&%20penggunaan%20present%20progressive%20%e2%80%93%20WilEnglish.html
+
+B. Perubahan verb yang berakhiran -ing
+http://localhost/WilEnglish-Local/MODUL-GRAMMAR/BAB-4/B.%20Perubahan%20verb%20yang%20berakhiran%20-ing%20%e2%80%93%20WilEnglish.html
+
+           Exercise 4.1
+           http://localhost/WilEnglish-Local/MODUL-GRAMMAR/BAB-4/Exercise%204.1%20%e2%80%93%20WilEnglish.html
+
+C. Verb yang tidak bisa digunakan untuk present progressive
+http://localhost/WilEnglish-Local/MODUL-GRAMMAR/BAB-4/C.%20Verb%20yang%20tidak%20bisa%20digunakan%20untuk%20present%20progressive%20%e2%80%93%20WilEnglish.html
+
+D. Perbedaan See, look at, watch, hear, dan listen to
+http://localhost/WilEnglish-Local/MODUL-GRAMMAR/BAB-4/D.%20Perbedaan%20See,%20look%20at,%20watch,%20hear,%20dan%20listen%20to%20%e2%80%93%20WilEnglish.html
+
+E. Perbedaan think about dan think that
+http://localhost/WilEnglish-Local/MODUL-GRAMMAR/BAB-4/E.%20Perbedaan%20think%20about%20dan%20think%20that%20%e2%80%93%20WilEnglish.html
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+BAB 5 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+A. Memahami noun subjects and objects
+http://localhost/WilEnglish-Local/MODUL-GRAMMAR/BAB-5/A.%20Memahami%20noun%20subjects%20and%20objects%20%e2%80%93%20WilEnglish.html
+
+B. Countable and uncountable noun
+http://localhost/WilEnglish-Local/MODUL-GRAMMAR/BAB-5/B.%20Countable%20and%20uncountable%20noun%20%e2%80%93%20WilEnglish.html
+
+           Exercise 5.1
+           http://localhost/WilEnglish-Local/MODUL-GRAMMAR/BAB-5/Exercise%205.1%20%e2%80%93%20WilEnglish.html
+
+    1. Singular and plural noun
+    http://localhost/WilEnglish-Local/MODUL-GRAMMAR/BAB-5/1.%20Singular%20and%20plural%20noun%20%e2%80%93%20WilEnglish.html
+
+           Exerise 5.2
+           http://localhost/WilEnglish-Local/MODUL-GRAMMAR/BAB-5/Exerise%205.2%20%e2%80%93%20WilEnglish.html
+
+    2. Irregular plural noun
+    http://localhost/WilEnglish-Local/MODUL-GRAMMAR/BAB-5/2.%20Irregular%20plural%20noun%20%e2%80%93%20WilEnglish.html
+
+C. Penggunaan a/an Vs some
+http://localhost/WilEnglish-Local/MODUL-GRAMMAR/BAB-5/C.%20Penggunaan%20a_an%20Vs%20some%20%e2%80%93%20WilEnglish.html
+
+           Exercise 5.3
+           http://localhost/WilEnglish-Local/MODUL-GRAMMAR/BAB-5/Exercise%205.3%20%e2%80%93%20WilEnglish.html
+
+D. Pengukuran dengan uncountable noun
+http://localhost/WilEnglish-Local/MODUL-GRAMMAR/BAB-5/D.%20Pengukuran%20dengan%20uncountable%20noun%20%e2%80%93%20WilEnglish.html
+
+E. Penggunaan many, much, a few, a little
+http://localhost/WilEnglish-Local/MODUL-GRAMMAR/BAB-5/E.%20Penggunaan%20many,%20much,%20a%20few,%20a%20little%20%e2%80%93%20WilEnglish.html
+
+           Exercise 5.4
+           http://localhost/WilEnglish-Local/MODUL-GRAMMAR/BAB-5/Exercise%205.4%20%e2%80%93%20WilEnglish.html
+
+F. Penggunaan ‘the’
+http://localhost/WilEnglish-Local/MODUL-GRAMMAR/BAB-5/F.%20Penggunaan%20%e2%80%98the%e2%80%99%20%e2%80%93%20WilEnglish.html
+
+           Exercise 5.5
+           http://localhost/WilEnglish-Local/MODUL-GRAMMAR/BAB-5/Exercise%205.5%20%e2%80%93%20WilEnglish.html
+
+G. Kata tanpa article
+http://localhost/WilEnglish-Local/MODUL-GRAMMAR/BAB-5/G.%20Kata%20tanpa%20article%20%e2%80%93%20WilEnglish.html
+
+H. Penggunaan some dan any
+http://localhost/WilEnglish-Local/MODUL-GRAMMAR/BAB-5/H.%20Penggunaan%20some%20dan%20any%20%e2%80%93%20WilEnglish.html
+
+           Exercise 5.6
+           http://localhost/WilEnglish-Local/MODUL-GRAMMAR/BAB-5/Exercise%205.6%20%e2%80%93%20WilEnglish.html
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+BAB 6 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+A. Memahami Transitive & Intransitive verb
+http://localhost/WilEnglish-Local/MODUL-GRAMMAR/BAB-6/A.%20Memahami%20Transitive%20&%20Intransitive%20verb%20%e2%80%93%20WilEnglish.html
+
+           Exercise 6.1
+           http://localhost/WilEnglish-Local/MODUL-GRAMMAR/BAB-6/Exercise%206.1%20%e2%80%93%20WilEnglish.html
+
+B. Memahami Verb 1, 2 & 3
+http://localhost/WilEnglish-Local/MODUL-GRAMMAR/BAB-6/B.%20Memahami%20Verb%201,%202%20&%203%20%e2%80%93%20WilEnglish.html
+
+C. Memahami Regular & Irregular verb
+http://localhost/WilEnglish-Local/MODUL-GRAMMAR/BAB-6/C.%20Memahami%20Regular%20&%20Irregular%20verb%20%e2%80%93%20WilEnglish.html
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+BAB 7 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+A. Pengertian & penggunaan simple past tense
+http://localhost/WilEnglish-Local/MODUL-GRAMMAR/BAB-7/A.%20Pengertian%20&%20penggunaan%20simple%20past%20tense%20%e2%80%93%20WilEnglish.html
+
+    1. Nominal sentence
+    http://localhost/WilEnglish-Local/MODUL-GRAMMAR/BAB-7/1.%20Nominal%20sentence%20%e2%80%93%20WilEnglish.html
+
+      – Interrogative nominal sentence
+      http://localhost/WilEnglish-Local/MODUL-GRAMMAR/BAB-7/%e2%80%93%20Interrogative%20nominal%20sentence%20%e2%80%93%20WilEnglish.html
+
+           Exercise 7.1
+           http://localhost/WilEnglish-Local/MODUL-GRAMMAR/BAB-7/Exercise%207.1%20%e2%80%93%20WilEnglish.html
+
+    2. Verbal sentence
+    http://localhost/WilEnglish-Local/MODUL-GRAMMAR/BAB-7/2.%20Verbal%20sentence%20%e2%80%93%20WilEnglish.html
+
+      – Interrogative verbal sentence
+      http://localhost/WilEnglish-Local/MODUL-GRAMMAR/BAB-7/%e2%80%93%20Interrogative%20verbal%20sentence%20%e2%80%93%20WilEnglish.html
+
+    3. Irregular verb untuk simple past
+    http://localhost/WilEnglish-Local/MODUL-GRAMMAR/BAB-7/3.%20Irregular%20verb%20untuk%20simple%20past%20%e2%80%93%20WilEnglish.html
+
+B. Time expression untuk past time
+http://localhost/WilEnglish-Local/MODUL-GRAMMAR/BAB-7/B.%20Time%20expression%20untuk%20past%20time%20%e2%80%93%20WilEnglish.html
+
+           Exercise 7.2
+           http://localhost/WilEnglish-Local/MODUL-GRAMMAR/BAB-7/Exercise%207.2%20%e2%80%93%20WilEnglish.html
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+BAB 8 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+A. Pengertian & penggunaan Present Perfect Tense
+http://localhost/WilEnglish-Local/MODUL-GRAMMAR/BAB-8/A.%20Pengertian%20&%20penggunaan%20Present%20Perfect%20Tense%20%e2%80%93%20WilEnglish.html
+
+B. Membuat sebuah pertanyaan dan jawaban
+http://localhost/WilEnglish-Local/MODUL-GRAMMAR/BAB-8/B.%20Membuat%20sebuah%20pertanyaan%20dan%20jawaban%20%e2%80%93%20WilEnglish.html
+
+C. Kalimat nominal untuk present perfect
+http://localhost/WilEnglish-Local/MODUL-GRAMMAR/BAB-8/C.%20Kalimat%20nominal%20untuk%20present%20perfect%20%e2%80%93%20WilEnglish.html
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+BAB 9 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+A. Memodifikasi noun dengan adjective dan noun
+http://localhost/WilEnglish-Local/MODUL-GRAMMAR/BAB-9/A.%20Memodifikasi%20noun%20dengan%20adjective%20dan%20noun%20%e2%80%93%20WilEnglish.html
+
+           Exercise 9.1
+           http://localhost/WilEnglish-Local/MODUL-GRAMMAR/BAB-9/Exercise%209.1%20%e2%80%93%20WilEnglish.html
+
+B. Mengenal word order of adjectives
+http://localhost/WilEnglish-Local/MODUL-GRAMMAR/BAB-9/B.%20Mengenal%20word%20order%20of%20adjectives%20%e2%80%93%20WilEnglish.html
+
+           Exercise 9.2
+           http://localhost/WilEnglish-Local/MODUL-GRAMMAR/BAB-9/Exercise%209.2%20%e2%80%93%20WilEnglish.html
+
+C. Mengekspresikan kuantitas
+http://localhost/WilEnglish-Local/MODUL-GRAMMAR/BAB-9/C.%20Mengekspresikan%20kuantitas%20%e2%80%93%20WilEnglish.html
+
+    1. all of, most of, some of, almost all of
+    http://localhost/WilEnglish-Local/MODUL-GRAMMAR/BAB-9/1.%20all%20of,%20most%20of,%20some%20of,%20almost%20all%20of%20%e2%80%93%20WilEnglish.html
+
+    2. subject-verb agreement
+    http://localhost/WilEnglish-Local/MODUL-GRAMMAR/BAB-9/2.%20subject-verb%20agreement%20%e2%80%93%20WilEnglish.html
+
+           Exercise 9.3
+           http://localhost/WilEnglish-Local/MODUL-GRAMMAR/BAB-9/Exercise%209.3%20%e2%80%93%20WilEnglish.html
+
+    3. one of dan none of
+    http://localhost/WilEnglish-Local/MODUL-GRAMMAR/BAB-9/3.%20one%20of%20dan%20none%20of%20%e2%80%93%20WilEnglish.html
+
+           Exercise 9.4
+           http://localhost/WilEnglish-Local/MODUL-GRAMMAR/BAB-9/Exercise%209.4%20%e2%80%93%20WilEnglish.html
+
+D. Indefinite pronouns
+http://localhost/WilEnglish-Local/MODUL-GRAMMAR/BAB-9/D.%20Indefinite%20pronouns%20%e2%80%93%20WilEnglish.html
+
+    1. nothing and no one
+    http://localhost/WilEnglish-Local/MODUL-GRAMMAR/BAB-9/1.%20nothing%20and%20no%20one%20%e2%80%93%20WilEnglish.html
+
+           Exercise 9.5
+           http://localhost/WilEnglish-Local/MODUL-GRAMMAR/BAB-9/Exercise%209.5%20%e2%80%93%20WilEnglish.html
+
+    2. something, someone, anything, anyone
+    http://localhost/WilEnglish-Local/MODUL-GRAMMAR/BAB-9/2.%20something,%20someone,%20anything,%20anyone%20%e2%80%93%20WilEnglish.html
+
+           Exercise 9.6
+           http://localhost/WilEnglish-Local/MODUL-GRAMMAR/BAB-9/Exercise%209.6%20%e2%80%93%20WilEnglish.html
+
+E. Menggunakan every
+http://localhost/WilEnglish-Local/MODUL-GRAMMAR/BAB-9/E.%20Menggunakan%20every%20%e2%80%93%20WilEnglish.html
+
+           Exercise 9.7
+           http://localhost/WilEnglish-Local/MODUL-GRAMMAR/BAB-9/Exercise%209.7%20%e2%80%93%20WilEnglish.html
+
+F. Linking verbs + adjectives
+http://localhost/WilEnglish-Local/MODUL-GRAMMAR/BAB-9/F.%20Linking%20verbs%20+%20adjectives%20%e2%80%93%20WilEnglish.html
+
+G. Adjectives and adverbs
+http://localhost/WilEnglish-Local/MODUL-GRAMMAR/BAB-9/G.%20Adjectives%20and%20adverbs%20%e2%80%93%20WilEnglish.html
+
+           Exercise 9.8
+           http://localhost/WilEnglish-Local/MODUL-GRAMMAR/BAB-9/Exercise%209.8%20%e2%80%93%20WilEnglish.html
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+BAB 10 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+A. Memahami penggunaan possessive nouns
+http://localhost/WilEnglish-Local/MODUL-GRAMMAR/BAB-10/A.%20Memahami%20penggunaan%20possessive%20nouns%20%e2%80%93%20WilEnglish.html
+
+B. Possessive: irregular plural nouns
+http://localhost/WilEnglish-Local/MODUL-GRAMMAR/BAB-10/B.%20Possessive_%20irregular%20plural%20nouns%20%E2%80%93%20WilEnglish.html
+
+C. Memahami penggunaan possessive pronouns
+http://localhost/WilEnglish-Local/MODUL-GRAMMAR/BAB-10/C.%20Memahami%20penggunaan%20possessive%20pronouns%20%e2%80%93%20WilEnglish.html
+
+           Exercise 10.1
+           http://localhost/WilEnglish-Local/MODUL-GRAMMAR/BAB-10/Exercise%2010.1%20%e2%80%93%20WilEnglish.html
+
+D. Membuat pertanyaan dengan whose
+http://localhost/WilEnglish-Local/MODUL-GRAMMAR/BAB-10/D.%20Membuat%20pertanyaan%20dengan%20whose%20%e2%80%93%20WilEnglish.html
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+BAB 11 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+A. Berkenalan dengan WH – Question
+http://localhost/WilEnglish-Local/MODUL-GRAMMAR/BAB-11/A.%20Berkenalan%20dengan%20WH%20%e2%80%93%20Question%20%e2%80%93%20WilEnglish.html
+
+    1. what
+    http://localhost/WilEnglish-Local/MODUL-GRAMMAR/BAB-11/1.%20what%20%e2%80%93%20WilEnglish.html
+
+    2. where
+    http://localhost/WilEnglish-Local/MODUL-GRAMMAR/BAB-11/2.%20where%20%e2%80%93%20WilEnglish.html
+
+    3. why
+    http://localhost/WilEnglish-Local/MODUL-GRAMMAR/BAB-11/3.%20why%20%e2%80%93%20WilEnglish.html
+
+    4. when
+    http://localhost/WilEnglish-Local/MODUL-GRAMMAR/BAB-11/4.%20when%20%e2%80%93%20WilEnglish.html
+
+    5. which
+    http://localhost/WilEnglish-Local/MODUL-GRAMMAR/BAB-11/5.%20which%20%e2%80%93%20WilEnglish.html
+
+    6. who
+    http://localhost/WilEnglish-Local/MODUL-GRAMMAR/BAB-11/6.%20who%20%e2%80%93%20WilEnglish.html
+
+    7. whom
+    http://localhost/WilEnglish-Local/MODUL-GRAMMAR/BAB-11/7.%20whom%20%e2%80%93%20WilEnglish.html
+
+    8. whose
+    http://localhost/WilEnglish-Local/MODUL-GRAMMAR/BAB-11/8.%20whose%20%e2%80%93%20WilEnglish.html
+
+    9. how
+    http://localhost/WilEnglish-Local/MODUL-GRAMMAR/BAB-11/9.%20how%20%e2%80%93%20WilEnglish.html
+
+    – how come
+    http://localhost/WilEnglish-Local/MODUL-GRAMMAR/BAB-11/%e2%80%93%20how%20come%20%e2%80%93%20WilEnglish.html
+
+    – how many
+    http://localhost/WilEnglish-Local/MODUL-GRAMMAR/BAB-11/%e2%80%93%20how%20many%20%e2%80%93%20WilEnglish.html
+
+    – how much
+    http://localhost/WilEnglish-Local/MODUL-GRAMMAR/BAB-11/%e2%80%93%20how%20much%20%e2%80%93%20WilEnglish.html
+
+    – how long
+    http://localhost/WilEnglish-Local/MODUL-GRAMMAR/BAB-11/%e2%80%93%20how%20long%20%e2%80%93%20WilEnglish.html
+
+    – how many times
+    http://localhost/WilEnglish-Local/MODUL-GRAMMAR/BAB-11/%e2%80%93%20how%20many%20times%20%e2%80%93%20WilEnglish.html
+
+    – how often
+    http://localhost/WilEnglish-Local/MODUL-GRAMMAR/BAB-11/%e2%80%93%20how%20often%20%e2%80%93%20WilEnglish.html
+
+    – how old
+    http://localhost/WilEnglish-Local/MODUL-GRAMMAR/BAB-11/%e2%80%93%20how%20old%20%e2%80%93%20WilEnglish.html
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
